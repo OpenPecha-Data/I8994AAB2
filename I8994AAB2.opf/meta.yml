@@ -1,0 +1,26 @@
+id: I8994AAB2
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-20-2
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  author: མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
+  authors: &id001
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
+  sku: RDI-KK-20-2
+  cover: RDI-KK-20-2.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  authors: *id001
+  sku: RDI-KK-20-2
+  cover: RDI-KK-20-2.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Quotation
+- Sabche
+- Tsawa
