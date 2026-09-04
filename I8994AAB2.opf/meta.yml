@@ -2,15 +2,16 @@ id: I8994AAB2
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-20-2
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: བརྟག་པ་གཉིས་པའི་འགྲེལ་བ། སྨད་ཆ།
   author: མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
   authors: &id001
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
   sku: RDI-KK-20-2
   cover: RDI-KK-20-2.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: བརྟག་པ་གཉིས་པའི་འགྲེལ་བ། སྨད་ཆ།
   authors: *id001
   sku: RDI-KK-20-2
   cover: RDI-KK-20-2.jpeg
